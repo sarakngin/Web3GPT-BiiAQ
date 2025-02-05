@@ -1,1 +1,1 @@
-# Web3GPT-BiiAQ
+# Web3GPT
